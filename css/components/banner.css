@@ -47,16 +47,26 @@
 
 .contact ul {
   margin-top: 40px;
-  list-style: none;
+  display: flex;
 }
 
 .contact li {
   display: inline;
   padding: 2px 5px;
+  padding: 2px 5px;
+  margin: 20px;
+  border: 1px solid white;
+  height: 40px;
+  width: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
 }
 
 li a {
   color: white;
+  font-size: 20px;
 }
 
 /* Put something here if we want different stuff for tablet/phone
