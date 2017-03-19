@@ -21,3 +21,7 @@ a .logo {
 	justify-content: center;
 	align-items: center;
 }
+
+.link:hover {
+  opacity: 0.5;
+}

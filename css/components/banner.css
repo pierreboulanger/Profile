@@ -31,7 +31,7 @@
   bottom: 10px;
 }
 
-#touch {
+.button-link {
   background: transparent;
   color: white;
   border: 1px solid white;
@@ -40,7 +40,7 @@
   transition: all 0.5s ease;
 }
 
-#touch:hover {
+.button-link:hover {
   color: black;
   background: white
 }
@@ -64,7 +64,7 @@
   border-radius: 50%;
 }
 
-li a {
+a li {
   color: white;
   font-size: 20px;
 }
